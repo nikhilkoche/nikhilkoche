@@ -34,9 +34,28 @@ Feel free to reach out if you'd like to work together on something awesome!
 - [Twitter](your-twitter-profile-link)
 - [Email](mailto:your-email-address)
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nikhil-koche/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 ## ⚡ Fun Facts
 
 - I enjoy [something fun, e.g., "exploring new technologies, gaming, and hiking."]
 - I'm always up for a challenge that helps me grow!
 
 Thanks for visiting my profile! Let's build something amazing together! 🚀
+
+
+
+
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lucDl1N3dqamp6NjUxcXFncXRobG5ybmJuNTJxNzdwM3g1azZkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oAMORhDCizxzfrtSly/giphy.gif" width="50%"/>
+</div>
+
+---
